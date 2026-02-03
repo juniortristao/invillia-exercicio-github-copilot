@@ -38,6 +38,42 @@ activities = {
         "schedule": "Mondays, Wednesdays, Fridays, 2:00 PM - 3:00 PM",
         "max_participants": 30,
         "participants": ["john@mergington.edu", "olivia@mergington.edu"]
+    },
+    "Soccer Club": {
+        "description": "Play soccer: drills, teamwork and friendly matches",
+        "schedule": "Wednesdays and Saturdays, 4:00 PM - 6:00 PM",
+        "max_participants": 25,
+        "participants": ["alex@mergington.edu", "sara@mergington.edu"]
+    },
+    "Basketball Club": {
+        "description": "Basketball practice and intra-school games",
+        "schedule": "Mondays and Thursdays, 4:00 PM - 6:00 PM",
+        "max_participants": 20,
+        "participants": ["liam@mergington.edu"]
+    },
+    "Art Workshop": {
+        "description": "Painting, drawing and visual arts projects",
+        "schedule": "Tuesdays, 3:30 PM - 5:00 PM",
+        "max_participants": 15,
+        "participants": ["ava@mergington.edu"]
+    },
+    "Drama Club": {
+        "description": "Acting, stagecraft and school productions",
+        "schedule": "Fridays, 4:00 PM - 6:00 PM",
+        "max_participants": 20,
+        "participants": ["noah@mergington.edu"]
+    },
+    "Math Club": {
+        "description": "Problem solving, math competitions and study groups",
+        "schedule": "Wednesdays, 3:30 PM - 4:30 PM",
+        "max_participants": 15,
+        "participants": ["isabella@mergington.edu"]
+    },
+    "Science Club": {
+        "description": "Hands-on experiments, research and science fairs",
+        "schedule": "Thursdays, 3:30 PM - 5:00 PM",
+        "max_participants": 20,
+        "participants": ["oliver@mergington.edu"]
     }
 }
 
